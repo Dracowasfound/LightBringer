@@ -14,9 +14,9 @@ elif inp == "2":
 else:
     print("You must choose between 1 or 2")
 
-    if input == "1":
+    if input == "2":
         mouse.click = Button.right()
-        if inp == "2":
+        if inp == "1":
             mouse.click = Button.left()
 
 TOGGLE_KEY = KeyCode(char="`")
