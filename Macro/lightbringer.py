@@ -34,8 +34,8 @@ if inp == 2:
     print("You have chosen right click!")
     quit()
 
-if input == 1:
+if chosen_input == 1:
     mouse.click = Button.right()
-    if inp == 2:
+    if input == 2:
         mouse.click = Button.left()
 
