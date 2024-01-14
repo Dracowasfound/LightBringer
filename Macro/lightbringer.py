@@ -7,16 +7,16 @@ from pynput.keyboard import Listener, KeyCode
 
 
 inp = input("Choose 1 or 2, 2 is left click; 1 is for right click. ")
-if inp == "1":
+if inp == "2":
     print("You picked left click")
-elif inp == "2":
+elif inp == "1":
     print("You picked right click")
 else:
     print("You must choose between 1 or 2")
 
-    if input == "2":
+    if input == "1":
         mouse.click = Button.right()
-        if inp == "1":
+        if inp == "2":
             mouse.click = Button.left()
 
 TOGGLE_KEY = KeyCode(char="`")
