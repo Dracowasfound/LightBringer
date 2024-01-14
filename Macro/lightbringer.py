@@ -6,7 +6,7 @@ from pynput.mouse import Button, Controller
 from pynput.keyboard import Listener, KeyCode
 
 
-inp = input("Choose 1 or 2, 1 is left click; 2 is for right click. ")
+inp = input("Choose 1 or 2, 2 is left click; 1 is for right click. ")
 if inp == "1":
     print("You picked left click")
 elif inp == "2":
