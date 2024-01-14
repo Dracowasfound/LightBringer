@@ -16,7 +16,7 @@ else:
 
     if input == "1":
         mouse.click = Button.right()
-        if inp == "2":
+        if input == "2":
             mouse.click = Button.left()
 
 TOGGLE_KEY = KeyCode(char="`")
