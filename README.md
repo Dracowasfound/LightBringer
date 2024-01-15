@@ -1,7 +1,7 @@
 
 # Lightbringer
 
-A gaming macro completely made in **Python**
+A autoclicker software completely made in **Python**
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
