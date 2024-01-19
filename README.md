@@ -12,3 +12,5 @@ A autoclicker software completely made in **Python**
 In order to use the autoclicker, Open "Releases", After releases is opened press "Source Code", Extract and
 open launch.bat and the it should start working!
 
+## Notice
+The autoclicker is now made in C#, Not python.
