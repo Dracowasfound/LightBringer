@@ -1,7 +1,8 @@
 
 # Lightbringer
 
-A autoclicker software completely made in **Python**
+A autoclicker software.
+This directory is to stay as storage for every update.
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
